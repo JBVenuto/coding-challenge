@@ -1,11 +1,3 @@
-# Crewmeister coding challenge 
-
-Hello and thanks in participating in the crewmeister coding challenge. This
-coding exercise will help us get a better feeling about your coding process.
-
-If you have any questions, we're happy to help you. Just drop us an 
-email: challenge@crewmeister.com
-
 # Instructions
 
 Clone this repository and don't create a fork, so that other candidates 
