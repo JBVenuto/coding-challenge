@@ -9,6 +9,8 @@
 
 ## User Guide
 
+Type `npm run babel` to begin
+
 To generate a list of all the absences including names of 
 the employees type `npm run absence-list` in the terminal
 
